@@ -111,7 +111,7 @@ Welcome to my **Python Course Repository**! This repository covers essential con
 ---
 
 ## 🌟 **Let's Connect!**
-If you found this course helpful, feel free to ⭐ this repository and connect with me on [LinkedIn](www.linkedin.com/in/muhammad-adnan-khan-133132251) for more updates and projects.
+If you found this course helpful, feel free to ⭐ this repository and connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-khan-133132251/) for more updates and projects.
 
 ---
 
